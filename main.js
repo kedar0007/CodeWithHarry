@@ -1,3 +1,4 @@
+//you can also write comment like this for better explanation to others
 console.log('connection')
 
 let thm = Qs.parse(location.search, {
